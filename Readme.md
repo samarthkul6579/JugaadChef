@@ -2,7 +2,7 @@
 
 **Cook Smart With What You Have**
 
-RasoiAI is an AI-powered web app that helps people cook using the ingredients they already have.
+JugaadChef is an AI-powered web app that helps people cook using the ingredients they already have.
 
 Instead of just showing recipes, it acts as a **cooking decision engine** that suggests personalized recipes and intelligent ingredient substitutions — while also **teaching users why those substitutions work**.
 
@@ -31,7 +31,7 @@ They do not help users cook **with what they actually have**.
 
 # Our Approach
 
-RasoiAI converts:
+JugaadChef converts:
 
 **Available Ingredients → Personalized Recipe → Smart Substitutes**
 
@@ -81,13 +81,13 @@ Example:
 
 ---
 
-# Why RasoiAI Is Different
+# Why JugaadChef Is Different
 
 Most cooking apps are **recipe libraries**.
 
-RasoiAI is a **cooking intelligence system**.
+JugaadChef is a **cooking intelligence system**.
 
-| Existing Apps                | RasoiAI                          |
+| Existing Apps                | JugaadChef                          |
 | ---------------------------- | -------------------------------- |
 | Static recipes               | Personalized recipes             |
 | Assumes perfect ingredients  | Works with available ingredients |
@@ -134,7 +134,7 @@ Backend – Render
 
 # Impact
 
-RasoiAI helps:
+JugaadChef helps:
 
 • Students cook affordable meals in hostels and PGs
 • Households reduce food waste
@@ -151,11 +151,11 @@ Make cooking **flexible, affordable, and understandable**.
 
 Cooking shouldn't depend on having the **perfect ingredients**.
 
-RasoiAI helps people cook confidently **with whatever they have** — while learning the science behind it.
+JugaadChef helps people cook confidently **with whatever they have** — while learning the science behind it.
 
 ---
 
 **Existing apps show recipes.
-RasoiAI teaches cooking.**
+JugaadChef teaches cooking.**
 
 ---
