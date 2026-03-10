@@ -1,8 +1,8 @@
-# JugaadChef
+# 🍳 JugaadChef
 
-**Cook Smart With What You Have**
+### **Cook Smart With What You Have**
 
-JugaadChef is an AI-powered web app that helps people cook using the ingredients they already have.
+JugaadChef is an **AI-powered web app** that helps people cook using the ingredients they already have.
 
 Instead of just showing recipes, it acts as a **cooking decision engine** that suggests personalized recipes and intelligent ingredient substitutions — while also **teaching users why those substitutions work**.
 
@@ -10,7 +10,7 @@ Built for **Indian students and households** who face real cooking constraints l
 
 ---
 
-# The Problem
+# 🚩 The Problem
 
 Most recipe apps assume users have **all the ingredients and cooking experience**.
 
@@ -29,7 +29,7 @@ They do not help users cook **with what they actually have**.
 
 ---
 
-# Our Approach
+# 🧠 Our Approach
 
 JugaadChef converts:
 
@@ -56,38 +56,47 @@ This **education-first approach** helps users learn cooking principles instead o
 
 ---
 
-# Key Features
+# ⚡ Key Features
 
-**Ingredient-to-Recipe Generator**
+### 🥘 Ingredient-to-Recipe Generator
+
 Enter available ingredients and get recipe suggestions instantly.
 
-**Intelligent Substitution Engine**
+### 🔬 Intelligent Substitution Engine
+
 Suggests replacements using **FlavorDB**, based on flavor chemistry and cooking function.
 
-**Education-First Cooking**
+### 🎓 Education-First Cooking
+
 Every substitution includes a short explanation of **why it works**.
 
-**Budget & Constraint Awareness**
+### 💰 Budget & Constraint Awareness
+
 Recipes adapt to ingredient availability, budget, allergies, and calorie needs.
 
-**Indian-First Cooking System**
+### 🇮🇳 Indian-First Cooking System
+
 Built using **RecipeDB**, focused on real Indian cooking patterns.
 
-**Hindi Input Support**
+### 🗣 Hindi Input Support
+
 Users can enter ingredients naturally.
 
 Example:
-`mere paas chawal aur aloo hai`
+
+```
+mere paas chawal aur aloo hai
+```
 
 ---
 
-# Why JugaadChef Is Different
+# 🧩 Why JugaadChef Is Different
 
 Most cooking apps are **recipe libraries**.
 
 JugaadChef is a **cooking intelligence system**.
 
-| Existing Apps                | JugaadChef                          |
+| Existing Apps                | JugaadChef                       |
 | ---------------------------- | -------------------------------- |
 | Static recipes               | Personalized recipes             |
 | Assumes perfect ingredients  | Works with available ingredients |
@@ -98,41 +107,46 @@ JugaadChef is a **cooking intelligence system**.
 
 ---
 
-# Tech Stack
+# 🛠 Tech Stack
 
-**Frontend**
+### Frontend
+
 React.js
 Tailwind CSS
 
-**Backend**
+### Backend
+
 Python Flask
 
-**Data Sources**
-RecipeDB (Indian recipe dataset)
-FlavorDB (flavor compatibility database)
+### Data Sources
 
-**APIs**
+RecipeDB *(Indian recipe dataset)*
+FlavorDB *(flavor compatibility database)*
+
+### APIs
+
 Spoonacular
 Edamam
 
-**Deployment**
-Frontend – Vercel
-Backend – Render
+### Deployment
+
+Frontend – **Vercel**
+Backend – **Render**
 
 ---
 
-# How It Works
+# ⚙️ How It Works
 
-1. User enters available ingredients and preferences
-2. System retrieves candidate recipes from RecipeDB
-3. Missing ingredients are detected
-4. FlavorDB suggests compatible substitutes
-5. Constraints (budget, allergies, calories) are applied
-6. Final personalized recipe is generated with explanations
+1️⃣ User enters available ingredients and preferences
+2️⃣ System retrieves candidate recipes from **RecipeDB**
+3️⃣ Missing ingredients are detected
+4️⃣ **FlavorDB** suggests compatible substitutes
+5️⃣ Constraints *(budget, allergies, calories)* are applied
+6️⃣ Final personalized recipe is generated with explanations
 
 ---
 
-# Impact
+# 🌍 Impact
 
 JugaadChef helps:
 
@@ -147,13 +161,15 @@ Make cooking **flexible, affordable, and understandable**.
 
 ---
 
-# Vision
+# 🚀 Vision
 
 Cooking shouldn't depend on having the **perfect ingredients**.
 
 JugaadChef helps people cook confidently **with whatever they have** — while learning the science behind it.
 
 ---
+
+### 💡 Final Thought
 
 **Existing apps show recipes.
 JugaadChef teaches cooking.**
